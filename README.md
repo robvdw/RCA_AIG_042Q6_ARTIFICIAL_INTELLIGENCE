@@ -8,9 +8,7 @@ This course is designed to provide a basic hands-on grounding of AI from a Cogni
 
 # Context & Topics
 This course is an adapted version of a lecture series as devised and setup for HRBS by Renske van den Engel-Brands.
-++++++  De cursus Artificiële Intelligentie maakt deel uit van de Rotterdam Career Academy ++++++++++++++++++++++++
-++++++  Vrije keuzedeel, richting Business IT Management                                   ++++++++++++++++++++++++
-++++++  Studielast bedraagt 30 ECTS                                                        ++++++++++++++++++++++++
+e cursus Artificiële Intelligentie maakt deel uit van de Rotterdam Career Academy. Vrije keuzedeel, richting Business IT Management. Studielast bedraagt 30 ECTS.
 
 Topics: Human Agents / Machine Learning / Deep Learning / Perceptron / 
 
