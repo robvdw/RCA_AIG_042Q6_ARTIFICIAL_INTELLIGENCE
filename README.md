@@ -15,7 +15,7 @@ Topics: Human Agents / Machine Learning / Deep Learning / Perceptron /
 
 
 # Scope
-A hands-on introductory course that provides a roadmap for explaining & building AI applications. 
+A hands-on introductory course that provides a roadmap for explaining and/or building AI applications. 
 Lectures + coding examples will become availabe during the course itself.
 
 # Learning objectives
