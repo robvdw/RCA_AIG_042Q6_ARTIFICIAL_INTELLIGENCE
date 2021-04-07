@@ -20,8 +20,8 @@ Lectures + coding examples will become availabe during the course itself.
 
 # Learning objectives
 * Become familiar with Cognitive Neuroscience & ML-based Data Science (DS) concepts surrounding AI applications
-* Learn to design, develop and test lightweight AI implementations by means of DS and Python coding.
-* Learn to report on AI projects from a Cognitive Neuroscience (inclusive prototypes + data-pipelines + ethical considerations).
+* Learn to design, develop and test lightweight AI implementations by means of AI-platforms.
+* Learn to report on AI projects/scenario's from a Cognitive Neuroscience perspective (inclusive prototypes + data-pipelines + ethical considerations).
 
 # Lessons
 The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/RCA_AIG_042Q6_ARTIFICIAL_INTELLIGENCE/
