@@ -1,13 +1,18 @@
 # ARTIFICIAL_INTELLIGENCE [RCA AIG 042Q6]
 # Goal & Aims
-This course is designed to provide a basic hands-on grounding of AI.
+This course is designed to provide a basic hands-on grounding of AI from a Cognitive Neuroscience perspective.
 
-* The aim is to equip students with the Data Science skills ---including Python coding--- in order to enable them to describe, implement & analyse basic machine learning (ML-)based AI-scenario's. 
+* The aim is to equip students with basic Data Science skills ---including Python coding--- to build or explain next-gen AI-applications.
 * It will provide students with in-depth knowledge about state-of-the-art AI frameworks & libraries ---such as AWS machine learning, Cafee, Keras, Matlab, Mathematica, Microsoft Cognitive Toolkit, Sci-Kit Learn, Pytorch, Tensorflow, Theano, Torch--- 
 * Partticular attention will be paid to the knowledge domain of Human Cognition form the view point of Cognitive Neuroscience.
 
-# Context & Prerequisits
+# Context & Topics
 This course is an adapted version of a lecture series as devised and setup for HRBS by Renske van den Engel-Brands.
+++++++  De cursus Artificiële Intelligentie maakt deel uit van de Rotterdam Career Academy ++++++++++++++++++++++++
+++++++  Vrije keuzedeel, richting Business IT Management                                   ++++++++++++++++++++++++
+++++++  Studielast bedraagt 30 ECTS                                                        ++++++++++++++++++++++++
+
+Topics: Human Agents / Machine Learning / Deep Learning / Perceptron / 
 
 
 # Scope
