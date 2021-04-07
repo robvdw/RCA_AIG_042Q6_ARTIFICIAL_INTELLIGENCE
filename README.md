@@ -4,7 +4,7 @@ This course is designed to provide a basic hands-on grounding of AI from a Cogni
 
 * The aim is to equip students with basic Data Science skills ---including Python coding--- to build or explain next-gen AI-applications.
 * It will provide students with in-depth knowledge about state-of-the-art AI frameworks & libraries ---such as AWS machine learning, Cafee, Keras, Matlab, Mathematica, Microsoft Cognitive Toolkit, Sci-Kit Learn, Pytorch, Tensorflow, Theano, Torch--- 
-* Partticular attention will be paid to the knowledge domain of Human Cognition form the view point of Cognitive Neuroscience.
+* Particular attention will be paid to the knowledge domain of Human Cognition form the view point of Cognitive Neuroscience.
 
 # Context & Topics
 This course is an adapted version of a lecture series as devised and setup for HRBS by Renske van den Engel-Brands.
