@@ -2,17 +2,17 @@
 # Goal & Aims
 This course is designed to provide a basic hands-on grounding of AI.
 
-* The aim is to equip students with the Data Science skills in order to enable them to describe, implement & analyse basic machine learning (ML-)based AI-scenario's. 
-* It will provide students with in-depth knowledge about state-of-the-art AI frameworks & libraries ---such as AWS machine learning, Cafee, Keras, Microsoft Cognitive Toolkit, Sci-Kit Learn, Pytorch, Tensorflow, Theano, Torch--- 
+* The aim is to equip students with the Data Science skills ---including Python coding--- in order to enable them to describe, implement & analyse basic machine learning (ML-)based AI-scenario's. 
+* It will provide students with in-depth knowledge about state-of-the-art AI frameworks & libraries ---such as AWS machine learning, Cafee, Keras, Matlab, Mathematica, Microsoft Cognitive Toolkit, Sci-Kit Learn, Pytorch, Tensorflow, Theano, Torch--- 
 * Partticular attention will be paid to the knowledge domain of Human Cognition form the view point of Cognitive Neuroscience.
 
 # Context & Prerequisits
-This course is an adapted version of a lecture series as devised and setup for HRBS by Renske van den Engel Brands.
+This course is an adapted version of a lecture series as devised and setup for HRBS by Renske van den Engel-Brands.
 
 
 # Scope
-A hands-on introductory course that provides a roadmap for explaining & building AI 
-Lectuse sheet will become availabe during the course itself: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/IoT-Pipelines/data_pipeline%20example01.png
+A hands-on introductory course that provides a roadmap for explaining & building AI applications. 
+Lectures + coding examples will become availabe during the course itself.
 
 # Learning objectives
 * Become familiar with Machine learning (ML) Data Science (DS) concepts surrounding AI applications
