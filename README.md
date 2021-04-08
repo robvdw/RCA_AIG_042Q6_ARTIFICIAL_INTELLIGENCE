@@ -11,7 +11,7 @@ This course is an adapted version of a lecture series as devised and setup for H
 
 ====> Artificiële Intelligentie maakt deel uit van de Rotterdam Career Academy. Vrije keuzedeel, richting Business IT Management. Studielast bedraagt 30 ECTS.
 
-Topics: Human Agents / Machine Learning / Deep Learning / Perceptron / 
+Topics: Human Agents / Machine Learning / Deep Learning / Perceptron / Backpropagation / Reinforcement Learning / STATSISTICS: Baysian & Markov Models / Classification & Labeling / next-gen ML Algoritms (adverserial) / Human Cognition
 
 
 # Scope
