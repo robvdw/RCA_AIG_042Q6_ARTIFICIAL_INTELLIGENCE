@@ -56,7 +56,7 @@ Thus, AI platforms combine automated human perception, cognition and/or motor sk
 Some platforms offer prebuilt ML algorithms and simplistic DS visualisation workflows with such features as drag-and-drop modeling and visual interfaces that easily connect necessary data to the end solution, while others require a greater knowledge of development and coding. 
 Machine learning is a popular subset of data science that warrants specific attention when evaluating these platforms.
 
-HC data products are digital products that use  DS & ML data analysis to visually support decision-making and help humans control complex systems. 
+HC data products are digital products that use AI platforms to visually support decision-making and help humans control complex systems. 
 Generally, a data product is the visually processed result, with the help of ML-algorithms, of complex data analysis of systems.
  
 Data products aim to make Wicked Problems accessible to humans.  
