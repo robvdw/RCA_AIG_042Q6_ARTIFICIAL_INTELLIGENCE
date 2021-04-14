@@ -18,7 +18,10 @@ This course is an adapted version of a lecture series as devised and setup for H
 
 # Scope
 A hands-on grounding of state-of-the-art data-products. 
-The course provides a roadmap for building conceptual AI prototypes of Human-Centered (HC) data-products. 
+The course provides a roadmap for building conceptual AI prototypes of Human-Centered (HC) data-products by means of AI-platforms. 
+
+AI platforms provide a cohesive software application that offers a mixture of basic building blocks essential both for creating many kinds of data science solution and incorporating such solutions into business processes, surrounding infrastructure and products. 
+Machine learning is a popular subset of data science that warrants specific attention when evaluating these platforms.
 HC data products are digital products that use statistical and/or ML-implemented data analysis to visually support decision-making and help humans control complex systems. Generally, a data product is the visually processed result, with the help of ML-algorithms, of complex data analysis of systems.
  
 Data products aim to make Wicked Problems accessible to humans.  
