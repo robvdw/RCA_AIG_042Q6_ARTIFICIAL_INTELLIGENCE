@@ -17,7 +17,8 @@ This course is an adapted version of a lecture series as devised and setup for H
 ====> Studielast bedraagt 30 ECTS.
 
 # Scope
-A hands-on grounding of modern AI. 
+A hands-on grounding of modern AI.
+
 The course provides a roadmap for building conceptual prototypes of Human-Centered (HC) data-products by means of AI-platforms. 
 
 AI platforms provide software tools to build, deploy, and monitor machine learning algorithms. 
