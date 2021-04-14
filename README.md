@@ -3,9 +3,19 @@
 This course is designed to provide a basic grounding of AI from a Cognitive Neuroscience perspective.
 
 * The aim is to equip students with basic Data Science skills ---including Python coding--- to build or explain next-gen Machine Learning (ML) data-products.
-* It will provide students with in-depth knowledge about state-of-the-art AI coding frameworks & libraries [AI platforms] 
+* It will provide students with in-depth knowledge about state-of-the-art AI coding frameworks & libraries [AI platforms] such as:
 
----such as AWS machine learning, Cafee, Keras, Matlab, Mathematica, Microsoft Cognitive Toolkit, Sci-Kit Learn, Pytorch, Tensorflow, Theano, Torch---
+    * AWS machine learning
+    * Cafee, Keras
+    * Matlab
+    * Mathematica
+    * Microsoft 
+    * Cognitive Toolkit
+    * Sci-Kit Learn
+    * Pytorch
+    * Tensorflow
+    * Theano
+    * Torch
 
 * Particular attention will be paid to the knowledge domain of Human Cognition form the view point of Cognitive Neuroscience.
 
@@ -24,16 +34,30 @@ A hands-on grounding of modern AI.
 
 The course provides a roadmap for building conceptual prototypes of Human-Centered (HC) data-products by means of AI-platforms. 
 
-AI platforms provide software tools to build, deploy, and monitor machine learning algorithms. 
-It involves the use of Data Science (DS) & Machine Learning (ML) models & algorithms to performt asks that otherwise would be performed solely by humans. 
+AI platforms comprise software tools to build, deploy, and monitor machine learning algorithms. 
+It involves the use of Data Science (DS) & Machine Learning (ML) models & algorithms to perform asks that otherwise would be performed solely by humans. 
 
 AI platforms aim to mimic & automatise tasks which otherwise require human perception, cognition and/or motor skills:
-pattern recognition, learning, logical reasoning & planning, decision making, problem solving, designing, creativity, likelihood estimation, language acquisition, multi-sensory interfacing, actuated body movement control, locomotion & manipulation, sentiment analysis, and generalisation
-Thus, AI platforms combine intelligent, decision-making algorithms with data, thereby enabling the creation of novel data products. 
-Some platforms offer prebuilt algorithms and simplistic workflows with such features as drag-and-drop modeling and visual interfaces that easily connect necessary data to the end solution, while others require a greater knowledge of development and coding. 
+
+* pattern recognition, 
+* learning, logical reasoning & planning, 
+* decision making, problem solving, 
+* designing, 
+* creativity, 
+* likelihood estimation, 
+* language acquisition,
+* multi-sensory interfacing, 
+* actuated body movement control
+* locomotion & manipulation
+* sentiment analysis
+* generalisation
+
+Thus, AI platforms combine automated human perception, cognition and/or motor skills with data, thereby enabling the creation of novel data products. 
+Some platforms offer prebuilt ML algorithms and simplistic DS visualisation workflows with such features as drag-and-drop modeling and visual interfaces that easily connect necessary data to the end solution, while others require a greater knowledge of development and coding. 
 Machine learning is a popular subset of data science that warrants specific attention when evaluating these platforms.
 
-HC data products are digital products that use statistical and/or ML-implemented data analysis to visually support decision-making and help humans control complex systems. Generally, a data product is the visually processed result, with the help of ML-algorithms, of complex data analysis of systems.
+HC data products are digital products that use  DS & ML data analysis to visually support decision-making and help humans control complex systems. 
+Generally, a data product is the visually processed result, with the help of ML-algorithms, of complex data analysis of systems.
  
 Data products aim to make Wicked Problems accessible to humans.  
 * contain many interdependent influencing variables 
