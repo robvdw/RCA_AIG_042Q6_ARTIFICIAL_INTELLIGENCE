@@ -3,7 +3,10 @@
 This course is designed to provide a basic grounding of AI from a Cognitive Neuroscience perspective.
 
 * The aim is to equip students with basic Data Science skills ---including Python coding--- to build or explain next-gen Machine Learning (ML) data-products.
-* It will provide students with in-depth knowledge about state-of-the-art AI coding frameworks & libraries [AI platforms] ---such as AWS machine learning, Cafee, Keras, Matlab, Mathematica, Microsoft Cognitive Toolkit, Sci-Kit Learn, Pytorch, Tensorflow, Theano, Torch--- 
+* It will provide students with in-depth knowledge about state-of-the-art AI coding frameworks & libraries [AI platforms] 
+
+---such as AWS machine learning, Cafee, Keras, Matlab, Mathematica, Microsoft Cognitive Toolkit, Sci-Kit Learn, Pytorch, Tensorflow, Theano, Torch---
+
 * Particular attention will be paid to the knowledge domain of Human Cognition form the view point of Cognitive Neuroscience.
 
 
