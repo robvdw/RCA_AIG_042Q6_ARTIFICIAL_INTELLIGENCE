@@ -35,7 +35,7 @@ A hands-on grounding of modern AI.
 The course provides a roadmap for building conceptual prototypes of Human-Centered (HC) data-products by means of AI-platforms. 
 
 AI platforms comprise software tools to build, deploy, and monitor machine learning algorithms. 
-It involves the use of Data Science (DS) & Machine Learning (ML) models & algorithms to perform asks that otherwise would be performed solely by humans. 
+It involves the use of Data Science (DS) & Machine Learning (ML) models & algorithms to perform tasks that otherwise would be performed solely by humans. 
 
 AI platforms aim to mimic & automatise tasks which otherwise require human perception, cognition and/or motor skills:
 
