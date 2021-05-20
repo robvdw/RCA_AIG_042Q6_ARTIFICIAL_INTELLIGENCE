@@ -87,5 +87,5 @@ Part 01 |  week 02	| Discovering the AI landscape
 Part 02 |  week 03-05 	| Defining AI & ML
 Part 03 |  week 05-07 	| Roadmap: Learn to write ML-code Yourself
 Part 04 |  week 08-11 	| Data Science: How to start your own ML-based AI-Project using AI framworks & Libraries
-Part 06 |  week 10 	| Explaining Grading + Summary + Q & A
---------- |  week 10/14 	| Self study & Project Completion + assesment
+Part 06 |  week 14 	| Explaining Grading + Summary + Q & A
+--------- |  week 14/20 	| Self study & Project Completion + assesment
